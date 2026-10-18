@@ -1,3 +1,5 @@
+<img src="assets/clip-manager-icon.png" width="96" alt="Clip Manager logo">
+
 # Clip Manager downloads
 
 Installers for **Clip Manager**, a Windows app that finds the best moments in a long video and turns
