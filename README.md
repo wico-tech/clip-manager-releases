@@ -23,6 +23,10 @@ for administrator rights.
 The first 7 days are the full version. After that, the free version renders up to 3 clips at a time
 with a "Made with Clip Manager" watermark, until you activate a license key in Settings.
 
+## Help
+
+Questions or problems: **support@wicotech.id**
+
 ## Updates
 
 Installed copies check here when they start and every few hours, download new versions in the
